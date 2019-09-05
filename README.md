@@ -1,2 +1,2 @@
 # cookbook
-test
+test for students
